@@ -25,7 +25,7 @@ This MCP server provides tools to interact with the Aljam3 digital library:
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd aljame3-mcp
+cd aljam3-mcp
 ```
 
 2. Install dependencies:
@@ -43,7 +43,7 @@ python server.py
 
 ### Configuration
 
-The server connects to the Aljam3 API at `https://aljam3.com` by default. You can modify the `base_url` in the `Aljame3Client` class initialization if needed.
+The server connects to the Aljam3 API at `https://aljam3.com` by default. You can modify the `base_url` in the `Aljam3Client` class initialization if needed.
 
 ### Tool Examples
 
@@ -91,7 +91,7 @@ This MCP server covers all endpoints from the Aljam3 OpenAPI specification:
 ### Project Structure
 
 ```
-aljame3-mcp/
+aljam3-mcp/
 ├── server.py          # Main MCP server implementation
 ├── requirements.txt   # Python dependencies
 ├── pyproject.toml    # Project configuration
