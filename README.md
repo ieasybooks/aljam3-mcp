@@ -1,3 +1,7 @@
+> **Archived:** This standalone MCP server is no longer maintained. Use [Aljam3's public MCP server](https://aljam3.com/mcp), maintained in [ieasybooks/aljam3-web-app](https://github.com/ieasybooks/aljam3-web-app).
+>
+> The documentation below describes the archived standalone implementation.
+
 # Aljam3 MCP Server
 
 An MCP (Model Context Protocol) server that provides access to the Aljam3 digital library API.
